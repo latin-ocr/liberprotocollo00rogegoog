@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./liberprotocollo00rogegoog/liberprotocollo00rogegoog_0009.png"; bbox 0 0 2994 4936; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 549 2283 1032 2458">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 549 2283 1032 2458">
+     <span class='ocr_line' id='line_1_1' title="bbox 717 2283 868 2312; baseline 0.007 -1"><span class='ocrx_word' id='word_1_1' title='bbox 717 2283 868 2312; x_wconf 71' lang='lat' dir='ltr'><strong>nummu:</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 549 2340 1032 2387; baseline 0.002 -8"><span class='ocrx_word' id='word_1_2' title='bbox 549 2352 651 2382; x_wconf 72' lang='grc' dir='ltr'>νκικτεο</span> <span class='ocrx_word' id='word_1_3' title='bbox 665 2351 693 2380; x_wconf 69' lang='grc' dir='ltr'><strong>εν</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 708 2340 845 2380; x_wconf 65' lang='lat' dir='ltr'><strong>mmmm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 859 2352 909 2380; x_wconf 72' lang='lat' dir='ltr'><strong>Am&gt;</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 924 2351 1032 2387; x_wconf 70' lang='grc' dir='ltr'><strong>ικεκικε,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 679 2419 903 2458; baseline 0.009 -12"><span class='ocrx_word' id='word_1_7' title='bbox 679 2419 705 2447; x_wconf 68' lang='grc' dir='ltr'><strong>ςτ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 719 2419 793 2458; x_wconf 70' lang='lat' dir='ltr'><strong>Jms</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 806 2419 903 2456; x_wconf 70' lang='lat' dir='ltr'>soum.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1502 4936">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1502 4936">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1502 4936; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1502 4936; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
